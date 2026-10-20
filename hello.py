@@ -1,4 +1,5 @@
 print("hi")
 print("name")
 print("hi") 
-print("salma")
+print("salma") 
+print("name")
